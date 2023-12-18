@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
