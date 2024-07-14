@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Add Weights & Biases Docs integrations page (#7199)
